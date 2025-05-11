@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /crn/datasets/ds003823/snapshots/1.0.0/files/sub-01/eeg/sub-01_task-rest_eeg.edf</pre>
+</body>
+</html>
